@@ -1,0 +1,11 @@
+[tool.poetry]
+name = "ex0"
+version = "0.1.0"
+description = "Dependency management laboratory"
+authors = ["nisu@student.codam.nl"]
+package-mode = false
+
+[tool.poetry.dependencies]
+python = ">=3.10"
+pandas = "*"
+numpy = "*"
